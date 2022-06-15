@@ -11,6 +11,8 @@ Message Panel;
 Voice Panel;
 ![image](https://user-images.githubusercontent.com/74346832/173930706-257a6433-c3f9-4173-9d63-fc89e6064d1d.png)
 Login Panel;
+
+
 ![image](https://user-images.githubusercontent.com/74346832/173930843-8640b36d-fd60-49d3-bf09-5c1f48c8a07d.png)
 # Not: Giriş Yaptıktan Sonra Eğer Sunucuda 8 Permine Sahipseniz İd İle Aratarak Kişinin Statına Bakabilirsiniz Daha Rahat Yetki Yükseltimi Yapabilirsiniz.
 # Meyhane Sunucusunda Kendimiz Kullanmaktayız :)
